@@ -9,4 +9,4 @@ function Header({ name }) {
 }
 
 
-export default Header;  // Don't forget to export
+export default Header;  
